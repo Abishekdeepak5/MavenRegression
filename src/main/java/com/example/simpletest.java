@@ -2,7 +2,7 @@ package com.example;
 
 public class simpletest {
     public int multiple(int a,int b){
-        return a*b;
+        return a-b+1;
         }
         public double divide(double a,double b){
         if(b==0){
